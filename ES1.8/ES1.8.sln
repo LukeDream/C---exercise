@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ES1.8", "ES1.8\ES1.8.vcxproj", "{32A702D2-7FCD-4DC4-BBE4-844067C1D85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A702D2-7FCD-4DC4-BBE4-844067C1D85D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{32A702D2-7FCD-4DC4-BBE4-844067C1D85D}.Debug|Win32.Build.0 = Debug|Win32
+		{32A702D2-7FCD-4DC4-BBE4-844067C1D85D}.Release|Win32.ActiveCfg = Release|Win32
+		{32A702D2-7FCD-4DC4-BBE4-844067C1D85D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
